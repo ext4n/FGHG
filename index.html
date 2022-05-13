@@ -1,7 +1,7 @@
 <html>
     <head>
         <script>
-            function get_updated_at(div_id) {
+            function get_pushed_at(div_id) {
                 var url = "https://api.github.com/repos/ext4n/FGHG";
 
                 var xhr = new XMLHttpRequest();
@@ -10,7 +10,7 @@
                 xhr.onreadystatechange = function() {
                     if (xhr.readyState == 4 && xhr.status == 200) {
                         var repos = JSON.parse(xhr.responseText);
-                        document.getElementById(div_id).innerHTML = repos['updated_at'];
+                        document.getElementById(div_id).innerHTML = repos['pushed_at'];
                     }
                 };
 
@@ -21,10 +21,10 @@
     <body>
       Привет! Последнее обновление картинок:
       <hr>
-      <div id="updated_at"></div>
+      <div id="pushed_at"></div>
     
       <script>
-          get_updated_at("updated_at");
+          get_pushed_at("pushed_at");
       </script>
 <table>
 <tr>
@@ -2451,4 +2451,6 @@
 <td><img style="border: 3px dotted rgb(0, 113, 211);" src="https://raw.githubusercontent.com/ext4n/FGHG/main/img-orig/warkong.jpg"></a></td></td>		
 <td><img style="border: 3px dotted rgb(0, 113, 211);" src="https://raw.githubusercontent.com/ext4n/FGHG/main/img-new/warkong.jpg"></a></td></td>		
 		
-</table>		
+</table>	
+	    </body>
+</html>
