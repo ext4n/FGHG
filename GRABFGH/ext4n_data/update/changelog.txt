@@ -1,0 +1,5 @@
+Version 0.2 beta:
+- Added new version.
+- Compiling new components.
+- Update chromium to 106.0.5.234.
+- Update all library.
