@@ -1,12 +1,12 @@
-Version 0.3 alpha:
-- Added new menu item.
-- Edited translation.
-- Added translation of components.
-- Chrome updated to 106.1.4.628.
-- Partially changed the theme of the program.
-- Made translation for the language (Ukrainian).
-- Added several new menus in the program.
-- Removed redundant program code.
-- Made translation of new modules.
-- Fixed bugs.
-- Added new components.
+Версия 0.4 beta:
+- Добавлено. Новые паки и ссылки.
+- Убрано. Лишний код программы и компонентов.
+- Оптимизировано. Загрузка программы.
+- Обновлено. Chromium до версии 107.1.2.397
+- Убрано. Ненужные элементы меню.
+- Добавлено. Новые переводы программы.
+- Оптимизировано. Изменен механизм проверки треков
+- Добавлено. Новые функции сканирования.
+- Добавлено. Переводы модулей
+- Баг фиксы и ошибки
+- Добавлено. Новые возможности программы.
