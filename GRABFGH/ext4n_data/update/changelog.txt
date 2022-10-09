@@ -1,12 +1,12 @@
-Версия 0.4 beta:
-- Добавлено. Новые паки и ссылки.
-- Убрано. Лишний код программы и компонентов.
-- Оптимизировано. Загрузка программы.
-- Обновлено. Chromium до версии 107.1.2.397
-- Убрано. Ненужные элементы меню.
-- Добавлено. Новые переводы программы.
-- Оптимизировано. Изменен механизм проверки треков
-- Добавлено. Новые функции сканирования.
-- Добавлено. Переводы модулей
-- Баг фиксы и ошибки
-- Добавлено. Новые возможности программы.
+Version 0.4 beta:
+- Added. New packs and links.
+- Removed. Extra code of the program and components.
+- Optimized. Program loading.
+- Updated. Chromium up to version 107.1.2.397
+- Removed. Unnecessary menu items.
+- Added. New translations of the program.
+- Optimized. Changed the mechanism for checking tracks
+- Added. New scanning features.
+- Added. Module translations
+- Bug fixes and errors
+- Added. New features of the program.
