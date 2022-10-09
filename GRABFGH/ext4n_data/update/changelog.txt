@@ -9,4 +9,4 @@ Version 0.3 alpha:
 - Removed redundant program code.
 - Made translation of new modules.
 - Fixed bugs.
-- Added new bugs.
+- Added new components.
