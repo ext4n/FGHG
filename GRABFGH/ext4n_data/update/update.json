@@ -1,6 +1,7 @@
 {
 	"upd": [{
-		"ID": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1YUcRWuetiMRFc5OzZHGHk51DepKjtd4q",
+		"x86": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1YUcRWuetiMRFc5OzZHGHk51DepKjtd4q",
+		"x64": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1YUcRWuetiMRFc5OzZHGHk51DepKjtd4q",
 		"DSKR": " - test - test 2 - test 3 - test 4",
 		"VERS": "0.2",
 		"PREV": "0.9"
